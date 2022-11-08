@@ -184,6 +184,15 @@ def control():
 def end():
     control['state'] = NORMAL
     end['state'] = DISABLED
+    number_a = randint(a,b)
+    state_1.delete('0.0', END)
+    state_1.insert(INSERT, number_a)
+    number_b = randint(a,b)
+    state_2.delete('0.0', END)
+    state_2.insert(INSERT, number_b)
+    number_c = randint(a,b)
+    state_3.delete('0.0', END)
+    state_3.insert(INSERT, number_c)
     state_1.configure(state='disabled')
     state_2.configure(state='disabled')
     state_3.configure(state='disabled')
@@ -225,8 +234,8 @@ def about():
     label_a.pack()
     tip_window = Label(window_about,
                     text='Random Number Generator \n'
-                            'Version: Version 2.2.2_Alpha 15 (Build 2115 Alpha_R0P14)\n'
-                            '2022/11/7 12:40(UTC+8) Update 15\n'
+                            'Version: Version 2.2.3_Alpha 16 (Build 2116 Alpha_R0P16)\n'
+                            '2022/11/7 12:45(UTC+8) Update 16\n'
                             'Copyright © 2022 12sdj. All Rights Reserved.',
                     font=("Microsoft YaHei UI", 8),
                     foreground="black")
