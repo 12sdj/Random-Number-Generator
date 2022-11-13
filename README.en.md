@@ -9,7 +9,7 @@
 
   [DelftStack(WEBSITE)](https://www.delftstack.com/zh/) Help the program's interface in the article [Tkinter Line](https://www.delftstack.com/zh/howto/python-tkinter/tkinter-draw-line/).  
 
-  [Water Tide Sound](https://www.cnblogs.com/syxy/) Help the program's interface in the article [Tkinter Beautification Topics (ttkboostrap, ttkthemes)](https://www.cnblogs.com/syxy/p/14724912.html)
+  [水汐音](https://www.cnblogs.com/syxy/) Help the program's interface in the article [Tkinter Beautification Topics (ttkboostrap, ttkthemes)](https://www.cnblogs.com/syxy/p/14724912.html)
 ## License  
   [MIT License](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)
 ## Wiki(Online)  
