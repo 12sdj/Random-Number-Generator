@@ -5,7 +5,11 @@
   [蔡锦源](https://github.com/caijinyuan123)  
   [Want to develop ***Random-Number-Generator*** with me？Please email me: gdcn_12sdj@outlook.com or 12sdjcn@gmail.com]
 ## Thanks
-  **scolia** provides help for running programs in [python-threads-pause, resume, exit](https://www.cnblogs.com/scolia/p/6132950.html)
+  Scolia helps the program run in the article [python - thread pause, resume, exit](https://www.cnblogs.com/scolia/p/6132950.html).  
+
+  [DelftStack(WEBSITE)](https://www.delftstack.com/zh/) Help the program's interface in the article [Tkinter Line](https://www.delftstack.com/zh/howto/python-tkinter/tkinter-draw-line/).  
+
+  [Water Tide Sound](https://www.cnblogs.com/syxy/) Help the program's interface in the article [Tkinter Beautification Topics (ttkboostrap, ttkthemes)](https://www.cnblogs.com/syxy/p/14724912.html)
 ## License  
   [MIT License](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)
 ## Wiki(Online)  
