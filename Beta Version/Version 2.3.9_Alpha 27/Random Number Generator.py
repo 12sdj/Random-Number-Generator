@@ -273,7 +273,7 @@ def about():
     tip_window = Label(window_about,
                     text='Random Number Generator \n'
                             'Version 2.3.9_Alpha 27 (Build 2127 Alpha_R0P27)\n'
-                            '2022/11/17 15:40(UTC+8) Update 27\n'
+                            '2022/11/16 15:40(UTC+8) Update 27\n'
                             'Copyright © 2022 12sdj. All Rights Reserved.',
                     font=("Microsoft YaHei UI", 10),
                     foreground="black")
