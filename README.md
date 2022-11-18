@@ -1,4 +1,5 @@
 # Random-Number-Generator
+## 简体中文（中国大陆）| English(United States)
 ## 开发者
   [12sdj](https://github.com/12sdj)<主持开发>  
   [Kazie-Yu](https://github.com/Kazie-Yu)<代码库辅助维护>  
