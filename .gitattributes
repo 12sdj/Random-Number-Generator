@@ -1,0 +1,4 @@
+*.md linguist-language=Markdown
+*.py linguist-language=Python
+*.cpp linguist-language=C++
+*.nsi linguist-language=NSIS
