@@ -4061,11 +4061,11 @@ SectionEnd
 
 Function un.onUninstSuccess
   HideWindow
-  MessageBox MB_ICONINFORMATION|MB_OK "[Random Number Generator] ÒÑ³É¹¦µØ´ÓÄãµÄ¼ÆËã»úÒÆ³ı¡£"
+  MessageBox MB_ICONINFORMATION|MB_OK "[Random Number Generator] å·²æˆåŠŸåœ°ä»ä½ çš„è®¡ç®—æœºç§»é™¤ã€‚"
 FunctionEnd
 
 Function un.onInit
-  MessageBox MB_ICONQUESTION|MB_YESNO|MB_DEFBUTTON2 "ÄãÈ·ÊµÒªÍêÈ«ÒÆ³ı [Random Number Generator] £¬Æä¼°ËùÓĞµÄ×é¼ş£¿" IDYES +2
+  MessageBox MB_ICONQUESTION|MB_YESNO|MB_DEFBUTTON2 "ä½ ç¡®å®è¦å®Œå…¨ç§»é™¤ [Random Number Generator] ï¼Œå…¶åŠæ‰€æœ‰çš„ç»„ä»¶ï¼Ÿ" IDYES +2
   Abort
 FunctionEnd
 
