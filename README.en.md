@@ -14,6 +14,8 @@
 ## License  
   [MIT License](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)
 ## Wiki(Online)  
-  https://github.com/12sdj/Random-Number-Generator/wiki
+  https://github.com/12sdj/Random-Number-Generator/wiki 
+## Program Version
+  3.0.0_Release(Build 2130 R1P0)
   
 
