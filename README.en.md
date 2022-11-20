@@ -10,7 +10,7 @@
   [DelftStack(WEBSITE)](https://www.delftstack.com/en/) on [Tkinter 画线](https://www.delftstack.com/zh/howto/python-tkinter/tkinter-draw-line/) Help the interface of the program in the article  
   [水汐音](https://www.cnblogs.com/syxy/) on [Tkinter美化之使用主题（ttkboostrap、ttkthemes）](https://www.cnblogs.com/syxy/p/14724912.html) Help the interface of the program in the article  
   [酷Python](https://www.zhihu.com/people/coolpython) on [如何使用tkinter构建数字时钟](https://zhuanlan.zhihu.com/page/358187323) Help for the diversity of procedures in the article  
-  [李小怪](https://blog.csdn.net/Monster_li57?type=blog) on [pyinstaller打包GUI程序时的图片处理——图片资源无法显示问题](https://blog.csdn.net/monster_li57/article/details/80601050) Help for the diversity of procedures in the article    
+  [李小怪](https://blog.csdn.net/Monster_li57?type=blog) on [pyinstaller打包GUI程序时的图片处理——图片资源无法显示问题](https://blog.csdn.net/monster_li57/article/details/80601050) Help with programming in the article    
 ## License  
   [MIT License](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)
 ## Wiki(Online)  
