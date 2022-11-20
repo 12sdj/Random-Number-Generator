@@ -284,7 +284,7 @@ def about():
     label_a.pack()
     tip_window = Label(window_about,
                     text='Random Number Generator \n'
-                            'Version 3.0.0_Release (Build 2130 Alpha_R1P0)\n'
+                            'Version 3.0.0_Release (Build 2130 R1P0)\n'
                             '2022/11/18 22:20(UTC+8) Update 31\n'
                             'Copyright © 2022 12sdj. All Rights Reserved.',
                     font=("Microsoft YaHei UI", 10),
