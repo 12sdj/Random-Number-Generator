@@ -14,5 +14,7 @@
 ## 开源协议   
   [MIT License](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)
 ## 在线知识库  
-  https://github.com/12sdj/Random-Number-Generator/wiki
+  https://github.com/12sdj/Random-Number-Generator/wiki  
+## 程序版本
+  3.0.0_Release(Build 2130 R1P0)
   
