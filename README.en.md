@@ -6,11 +6,10 @@
   [蔡锦源](https://github.com/caijinyuan123)  
   [Want to develop ***Random-Number-Generator*** with me？Please email me: gdcn_12sdj@outlook.com or 12sdjcn@gmail.com]
 ## Thanks
-  Scolia helps the program run in the article [python - thread pause, resume, exit](https://www.cnblogs.com/scolia/p/6132950.html).  
-
-  [DelftStack(WEBSITE)](https://www.delftstack.com/zh/) Help the program's interface in the article [Tkinter Line](https://www.delftstack.com/zh/howto/python-tkinter/tkinter-draw-line/).  
-
-  [水汐音](https://www.cnblogs.com/syxy/) Help the program's interface in the article [Tkinter Beautification Topics (ttkboostrap, ttkthemes)](https://www.cnblogs.com/syxy/p/14724912.html)
+  Scolia helps the program run in the article [python-thread pause, resume, exit] (https://www.cnblogs.com/scolia/p/6132950.html)
+[DelftStack(WEBSITE)] (https://www.delftstack.com/en/) on [Tkinter Draw Line] (https://www.delftstack.com/en/ho Wto/python-tkinter/tkinter-draw-line/) Help the interface of the program in the article
+[Water Tidal Sound] (https://www.cnblogs.com/syxy/) in [Tkinter Beautification Theme (ttkboostrap, ttkthemes)] (https://www.cnblogs.co M/syxy/p/14724912.html) Help the interface of the program in the article
+[Cool Python] (https://www.zhihu.com/people/coolpython) on [How to build a digital clock with tkinter] (https://zhuanlan.zhihu.com/p /358187323) Help for the diversity of procedures in the article
 ## License  
   [MIT License](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)
 ## Wiki(Online)  
