@@ -7,7 +7,7 @@
   [Want to develop ***Random-Number-Generator*** with me？Please email me: gdcn_12sdj@outlook.com or 12sdjcn@gmail.com]
 ## Thanks
   Scolia helps the program run in the article [python-thread pause, resume, exit](https://www.cnblogs.com/scolia/p/6132950.html)  
-  [DelftStack(WEBSITE)](https://www.delftstack.com/en/) on [Tkinter Draw Line](https://www.delftstack.com/en/hoWto/python-tkinter/tkinter-draw-line/) Help the interface of the program in the article  
+  [DelftStack(WEBSITE)](https://www.delftstack.com/en/) on [Tkinter Draw Line](https://www.delftstack.com/zh/howto/python-tkinter/tkinter-draw-line/) Help the interface of the program in the article  
   [Water Tidal Sound](https://www.cnblogs.com/syxy/) in [Tkinter Beautification Theme (ttkboostrap, ttkthemes)](https://www.cnblogs.com/syxy/p/14724912.html) Help the interface of the program in the article  
   [Cool Python](https://www.zhihu.com/people/coolpython) on [How to build a digital clock with tkinter](https://zhuanlan.zhihu.com/page/358187323) Help for the diversity of procedures in the article  
 ## License  
