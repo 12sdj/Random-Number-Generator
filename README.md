@@ -15,6 +15,19 @@
   [MIT License](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)
 ## 在线知识库  
   https://github.com/12sdj/Random-Number-Generator/wiki  
-## 程序版本
-  3.0.0_Release(Build 2130 R1P0)
+## 版本
+  ### 程序版本  
+    3.0.0_Release(Build 2130 R1P0)  
+  ### 插件版本
+     Package                   Version   Latest    Type
+    ------------------------- --------- --------- -----
+    altgraph                  0.17.2    0.17.3    wheel
+    certifi                   2022.9.14 2022.9.24 wheel
+    charset-normalizer        2.1.1     3.0.1     wheel
+    colorama                  0.4.5     0.4.6     wheel
+    Pillow                    9.2.0     9.3.0     wheel
+    pyinstaller               5.4.1     5.6.2     wheel
+    pyinstaller-hooks-contrib 2022.10   2022.13   wheel
+    pywin32                   304       305       wheel
+    setuptools                63.2.0    65.6.0    wheel
   
