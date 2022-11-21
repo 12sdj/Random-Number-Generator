@@ -9,14 +9,14 @@
    [Licenca MIT](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)
 ## Wiki (Online)
    https://github.com/12sdj/Random-Number-Generator/wiki
-## 版本
-  ### 程序版本  
+## Versioni
+  ### Program Versioni  
     3.0.0_Release(Build 2130 R1P0)  
-  ### 编译器/GUI设计工具/IDIE版本
+  ### Përpilues/GUI Projektim Mjeti/IDIE Versioni  
     Python 3.10.8
     Tk 8.6.12
     Visual Studio Code 1.73.1
-  ### 插件版本
+  ### Plugins Versional
     Package                   Version
     ------------------------- ---------
     altgraph                  0.17.2
