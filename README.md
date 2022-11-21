@@ -18,6 +18,10 @@
 ## 版本
   ### 程序版本  
     3.0.0_Release(Build 2130 R1P0)  
+  ### 编译器/GUI设计工具/IDIE版本
+    Python 3.10.8
+    Tk 8.6.12
+    Visual Studio Code 1.73.1
   ### 插件版本
     Package                   Version
     ------------------------- ---------
