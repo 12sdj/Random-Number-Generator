@@ -1,5 +1,5 @@
 # Random-Number-Generator
-#### [**简体中文（中国大陆）**](https://github.com/12sdj/Random-Number-Generator/blob/main/README.md)| [English(United States)](https://github.com/12sdj/Random-Number-Generator/blob/main/README.en.md) | [Shqiptare](https://github.com/12sdj/Random-Number-Generator/blob/main/README.al.md)
+#### [简体中文（中国大陆）](https://github.com/12sdj/Random-Number-Generator/blob/main/README.md)| [繁體中文](https://github.com/12sdj/Random-Number-Generator/blob/main/README.cn.md) | [English(United States)](https://github.com/12sdj/Random-Number-Generator/blob/main/README.en.md) | [Shqiptare](https://github.com/12sdj/Random-Number-Generator/blob/main/README.al.md)
 ## 開發者
   [12sdj](https://github.com/12sdj)<主持開發>  
   [Kazie-Yu](https://github.com/Kazie-Yu)<代碼庫輔助維護>  
