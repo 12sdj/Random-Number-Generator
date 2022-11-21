@@ -1,4 +1,5 @@
 # Gjenerues i numrave të rastësishëm
+![image](https://img.shields.io/badge/License-MIT-orange) ![image](https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-red)  
 #### [简体中文（中国大陆）](https://github.com/12sdj/Random-Number-Generator/blob/main/README.md)| [繁體中文](https://github.com/12sdj/Random-Number-Generator/blob/main/README.cn.md) | [English(United States)](https://github.com/12sdj/Random-Number-Generator/blob/main/README.en.md) | [**Shqiptare**](https://github.com/12sdj/Random-Number-Generator/blob/main/README.al.md)
 ## Zhvilluesit
    [12sdj](https://github.com/12sdj)<Principal>  
