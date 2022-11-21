@@ -1,5 +1,7 @@
 # 注意：  
 ## 该部分内容遵循单独协议  
+若要下载协议，请点击[Download](blob:https://github.com/c10aae10-df5b-4a87-87fa-631a6b023fed)  
+
                            GNU GENERAL PUBLIC LICENSE
                              Version 3, 29 June 2007
 
@@ -674,4 +676,3 @@
       the library.  If this is what you want to do, use the GNU Lesser General
       Public License instead of this License.  But first, please read
       <https://www.gnu.org/licenses/why-not-lgpl.html>.
- 若要下载协议，请点击[Download]()
