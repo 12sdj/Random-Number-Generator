@@ -7,10 +7,10 @@
    [Dëshironi të zhvilloni ***Random-Number-Generator*** me mua? Ju lutemi më dërgoni email: gdcn_12sdj@outlook.com ose 12sdjcn@gmail.com]
 ## Faleminderit
    **scolia** ofron ndihmë për ekzekutimin e programeve në [python-threads-pause, resume, exit](https://www.cnblogs.com/scolia/p/6132950.html)     
-   [DelftStack(WEBSITE)](https://www.delftstack.com/zh/)Në [Tkinter 画线](https://www.delftstack.com/zh/howto/python-tkinter/tkinter-draw-line/) 一文中为程序的界面提供帮助  
-  [水汐音](https://www.cnblogs.com/syxy/)Në [Tkinter美化之使用主题（ttkboostrap、ttkthemes）](https://www.cnblogs.com/syxy/p/14724912.html) 一文中为程序的界面提供帮助   
-  [酷python](https://www.zhihu.com/people/coolpython)Në [如何使用tkinter构建数字时钟](https://zhuanlan.zhihu.com/p/358187323) 一文中为程序的多样性提供帮助   
-  [李小怪](https://blog.csdn.net/Monster_li57?type=blog)Në [pyinstaller打包GUI程序时的图片处理——图片资源无法显示问题](https://blog.csdn.net/monster_li57/article/details/80601050) 一文中为程序设计提供帮助
+   [DelftStack(WEBSITE)](https://www.delftstack.com/zh/)Në [Tkinter 画线](https://www.delftstack.com/zh/howto/python-tkinter/tkinter-draw-line/) Ky artikull jep ndihmë për ndërfaqen e programit     
+  [水汐音](https://www.cnblogs.com/syxy/)Në [Tkinter美化之使用主题（ttkboostrap、ttkthemes）](https://www.cnblogs.com/syxy/p/14724912.html) Ky artikull jep ndihmë për ndërfaqen e programit     
+  [酷python](https://www.zhihu.com/people/coolpython)Në [如何使用tkinter构建数字时钟](https://zhuanlan.zhihu.com/p/358187323) Artikulli ofron ndihmë për shumëllojshmërinë e procedurave     
+  [李小怪](https://blog.csdn.net/Monster_li57?type=blog)Në [pyinstaller打包GUI程序时的图片处理——图片资源无法显示问题](https://blog.csdn.net/monster_li57/article/details/80601050) Ndihma e programimit jepet në këtë artikull
 ## Liçensë
    [Licenca MIT](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)
 ## Wiki (Online)
