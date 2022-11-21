@@ -19,15 +19,30 @@
   ### 程序版本  
     3.0.0_Release(Build 2130 R1P0)  
   ### 插件版本
-     Package                   Version   Latest    Type
-    ------------------------- --------- --------- -----
-    altgraph                  0.17.2    0.17.3    wheel
-    certifi                   2022.9.14 2022.9.24 wheel
-    charset-normalizer        2.1.1     3.0.1     wheel
-    colorama                  0.4.5     0.4.6     wheel
-    Pillow                    9.2.0     9.3.0     wheel
-    pyinstaller               5.4.1     5.6.2     wheel
-    pyinstaller-hooks-contrib 2022.10   2022.13   wheel
-    pywin32                   304       305       wheel
-    setuptools                63.2.0    65.6.0    wheel
+    Package                   Version
+    ------------------------- ---------
+    altgraph                  0.17.2
+    certifi                   2022.9.14
+    charset-normalizer        2.1.1
+    colorama                  0.4.5
+    ffmpeg                    1.4
+    future                    0.18.2
+    idna                      3.4
+    pefile                    2022.5.30
+    Pillow                    9.2.0
+    pip                       22.3.1
+    pyinstaller               5.4.1
+    pyinstaller-hooks-contrib 2022.10
+    pynput                    1.7.6
+    pypiwin32                 223
+    pywin32                   304
+    pywin32-ctypes            0.2.0
+    requests                  2.28.1
+    setproctitle              1.3.2
+    setuptools                63.2.0
+    six                       1.16.0
+    tqdm                      4.64.1
+    ttkthemes                 3.2.2
+    urllib3                   1.26.12
+    winshell                  0.6
   
