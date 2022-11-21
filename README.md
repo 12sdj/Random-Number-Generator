@@ -1,9 +1,4 @@
 # Random-Number-Generator
-<div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
 #### [**简体中文（中国大陆）**](https://github.com/12sdj/Random-Number-Generator/blob/main/README.md)| [繁體中文](https://github.com/12sdj/Random-Number-Generator/blob/main/README.cn.md) | [English(United States)](https://github.com/12sdj/Random-Number-Generator/blob/main/README.en.md) | [Shqiptare](https://github.com/12sdj/Random-Number-Generator/blob/main/README.al.md)
 ## 开发者
   [12sdj](https://github.com/12sdj)<主持开发>  
