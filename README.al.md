@@ -6,7 +6,7 @@
    [蔡锦源](https://github.com/caijinyuan123)   
    [Dëshironi të zhvilloni ***Random-Number-Generator*** me mua? Ju lutemi më dërgoni email: gdcn_12sdj@outlook.com ose 12sdjcn@gmail.com]
 ## Faleminderit
-   **scolia** ofron ndihmë për ekzekutimin e programeve në [python-threads-pause, resume, exit](https://www.cnblogs.com/scolia/p/6132950.html)
+   **scolia** ofron ndihmë për ekzekutimin e programeve në [python-threads-pause, resume, exit](https://www.cnblogs.com/scolia/p/6132950.html)     
    [DelftStack(WEBSITE)](https://www.delftstack.com/zh/)在 [Tkinter 画线](https://www.delftstack.com/zh/howto/python-tkinter/tkinter-draw-line/) 一文中为程序的界面提供帮助  
   [水汐音](https://www.cnblogs.com/syxy/)在 [Tkinter美化之使用主题（ttkboostrap、ttkthemes）](https://www.cnblogs.com/syxy/p/14724912.html) 一文中为程序的界面提供帮助   
   [酷python](https://www.zhihu.com/people/coolpython)在 [如何使用tkinter构建数字时钟](https://zhuanlan.zhihu.com/p/358187323) 一文中为程序的多样性提供帮助   
