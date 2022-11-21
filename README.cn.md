@@ -15,7 +15,39 @@
   [MIT License](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)
 ## 在線知識庫  
   https://github.com/12sdj/Random-Number-Generator/wiki  
-## 程式版本
-  3.0.0_Release(Build 2130 R1P0)
+## 版本
+  ### 程式版本  
+    3.0.0_Release(Build 2130 R1P0)  
+  ### 編譯器/GUI設計工具/IDIE 版本
+    Python 3.10.8
+    Tk 8.6.12
+    Visual Studio Code 1.73.1
+  ### 外掛程式版本
+    Package                   Version
+    ------------------------- ---------
+    altgraph                  0.17.2
+    certifi                   2022.9.14
+    charset-normalizer        2.1.1
+    colorama                  0.4.5
+    ffmpeg                    1.4
+    future                    0.18.2
+    idna                      3.4
+    pefile                    2022.5.30
+    Pillow                    9.2.0
+    pip                       22.3.1
+    pyinstaller               5.4.1
+    pyinstaller-hooks-contrib 2022.10
+    pynput                    1.7.6
+    pypiwin32                 223
+    pywin32                   304
+    pywin32-ctypes            0.2.0
+    requests                  2.28.1
+    setproctitle              1.3.2
+    setuptools                63.2.0
+    six                       1.16.0
+    tqdm                      4.64.1
+    ttkthemes                 3.2.2
+    urllib3                   1.26.12
+    winshell                  0.6
   
 
