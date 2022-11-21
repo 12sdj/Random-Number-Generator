@@ -1,5 +1,5 @@
 # Gjenerues i numrave të rastësishëm
-#### [简体中文（中国大陆）](https://github.com/12sdj/Random-Number-Generator/blob/main/README.md)| [English(United States)](https://github.com/12sdj/Random-Number-Generator/blob/main/README.en.md) | [**Shqiptare**](https://github.com/12sdj/Random-Number-Generator/blob/main/README.al.md)
+#### [简体中文（中国大陆）](https://github.com/12sdj/Random-Number-Generator/blob/main/README.md)| [繁體中文](https://github.com/12sdj/Random-Number-Generator/blob/main/README.cn.md) | [English(United States)](https://github.com/12sdj/Random-Number-Generator/blob/main/README.en.md) | [**Shqiptare**](https://github.com/12sdj/Random-Number-Generator/blob/main/README.al.md)
 ## Zhvilluesit
    [12sdj](https://github.com/12sdj)<Principal>
    [Dëshironi të zhvilloni ***Random-Number-Generator*** me mua? Ju lutemi më dërgoni email: gdcn_12sdj@outlook.com ose 12sdjcn@gmail.com]
