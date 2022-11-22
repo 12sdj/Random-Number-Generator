@@ -58,7 +58,7 @@
    <img width="362" alt="运行" src="https://user-images.githubusercontent.com/103876733/202992998-d4b93864-d0f7-477f-a919-1deeb5cf67ab.png">  
 
    
-## Shkarko burimin  
+## Shkarko Burimin  
   * [Github](https://github.com/12sdj/Random-Number-Generator/releases)  
   * [阿里云盘](https://www.aliyundrive.com/s/DsCj6z6vBpN)  
   * [腾讯微云](https://share.weiyun.com/HlegMI18)  
