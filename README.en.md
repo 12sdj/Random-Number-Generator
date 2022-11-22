@@ -57,4 +57,8 @@
    <img width="362" alt="透明设置" src="https://user-images.githubusercontent.com/103876733/202992940-811364fc-9d4b-4a77-a18c-224668cb6916.png"> <img width="362" alt="右键菜单" src="https://user-images.githubusercontent.com/103876733/202992964-7ef201e8-3160-4d46-9c1e-c10ac4a3c2de.png">
    <img width="362" alt="运行" src="https://user-images.githubusercontent.com/103876733/202992998-d4b93864-d0f7-477f-a919-1deeb5cf67ab.png">
 
-
+## Download Sources  
+  * [Github](https://github.com/12sdj/Random-Number-Generator/releases)  
+  * [阿里云盘](https://www.aliyundrive.com/s/DsCj6z6vBpN)  
+  * [腾讯微云](https://share.weiyun.com/HlegMI18)  
+  * [OneDrive](https://8qd83q-my.sharepoint.com/:f:/g/personal/12sdj_8qd83q_onmicrosoft_com/EjmTM5xEZeBFjnXuM5j-3cQBYkFQF3KaMiRlwncNtgxYrQ?e=Ad2X5z)  
