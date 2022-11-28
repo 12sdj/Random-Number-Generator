@@ -19,7 +19,7 @@
   https://github.com/12sdj/Random-Number-Generator/wiki  
 ## 版本
   ### 程序版本  
-    3.0.2_Release (Build 2132 R1P2)  
+    3.0.3_Release (Build 2133 R1P3)  
   ### 编译器/GUI设计工具/IDIE 版本
     Python 3.10.8
     Tk 8.6.12
