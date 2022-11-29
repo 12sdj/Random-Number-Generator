@@ -1,8 +1,6 @@
 # 注意：  
 ## 该部分内容遵循单独协议  
 
-<img width="909" alt="image" src="https://user-images.githubusercontent.com/103876733/202954200-2e8db7ac-f425-43c9-a4e3-a03733dda48b.png">
-
 
                            GNU GENERAL PUBLIC LICENSE
                              Version 3, 29 June 2007
