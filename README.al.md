@@ -18,11 +18,11 @@
    https://github.com/12sdj/Random-Number-Generator/wiki
 ## Versioni
   ### Program Versioni  
-    3.0.3_Release (Build 2133 R1P3)    
+    3.1.0_Release (Build 2134 R1P4)      
   ### Përpilues/GUI Projektim Mjeti/IDIE Versioni  
-    Python 3.10.8
+    Python 3.10.9
     Tk 8.6.12
-    Visual Studio Code 1.73.1
+    Visual Studio Code 1.74.2
   ### Plugins Versional
     Package                   Version
     ------------------------- ---------
