@@ -53,6 +53,11 @@
     winshell                  0.6
 
 ## About Program  
+  ### Recommendations
+  Recommended resolution: 2520x1680  
+  Recommended scaling: 150%  
+  Recommended operating systems: Windows 10 21H2 (most stable), Windows 11 22H2 (most feedback)  
+  Note: On the tested Windows 7 SP1 system, this program does not run properly  
   ### Screenshots
    <img width="362" alt="主页面" src="https://user-images.githubusercontent.com/103876733/202992865-bf67c2ad-1675-407a-89fc-a5dab40f69dc.png"> <img width="362" alt="设置" src="https://user-images.githubusercontent.com/103876733/202992917-74d994fc-8f77-4ac3-8b51-a6a5fa97a77f.png">
    <img width="362" alt="透明设置" src="https://user-images.githubusercontent.com/103876733/202992940-811364fc-9d4b-4a77-a18c-224668cb6916.png"> <img width="362" alt="右键菜单" src="https://user-images.githubusercontent.com/103876733/202992964-7ef201e8-3160-4d46-9c1e-c10ac4a3c2de.png">
