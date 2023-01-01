@@ -54,6 +54,11 @@
     winshell                  0.6
     
 ## 关于程序  
+  ### 建议
+  建议分辨率：2520x1680
+  建议缩放：150%
+  建议操作系统：Windows 10 21H2（最稳定），Windows 11 22H2（最具反馈价值）
+  注意：在测试的Windows 7 SP1系统中，本程序无法正常运行
   ### 截图
    <img width="362" alt="主页面" src="https://user-images.githubusercontent.com/103876733/202992865-bf67c2ad-1675-407a-89fc-a5dab40f69dc.png"> <img width="362" alt="设置" src="https://user-images.githubusercontent.com/103876733/202992917-74d994fc-8f77-4ac3-8b51-a6a5fa97a77f.png">
    <img width="362" alt="透明设置" src="https://user-images.githubusercontent.com/103876733/202992940-811364fc-9d4b-4a77-a18c-224668cb6916.png"> <img width="362" alt="右键菜单" src="https://user-images.githubusercontent.com/103876733/202992964-7ef201e8-3160-4d46-9c1e-c10ac4a3c2de.png">
