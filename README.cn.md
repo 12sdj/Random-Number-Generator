@@ -17,7 +17,7 @@
 ## 在線知識庫  
   https://github.com/12sdj/Random-Number-Generator/wiki  
 ## 版本
-  ### 程式版本  
+  ### 程序版本  
     3.2.1_Release (Build 2136 R1P6)     
   ### 編譯器/GUI設計工具/IDIE 版本
     Python 3.10.9
@@ -54,6 +54,11 @@
   
 
 ## 關於程式 
+  ### 建議
+   建議解析度：2520x1680
+   建議縮放：150%
+   建議操作系統：Windows 10 21H2（最穩定），Windows 11 22H2（最具反饋價值）
+   注意：在測試的Windows 7 SP1系統中，本程式無法正常運行
   ### 程序截圖
    <img width="362" alt="主页面" src="https://user-images.githubusercontent.com/103876733/202992865-bf67c2ad-1675-407a-89fc-a5dab40f69dc.png"> <img width="362" alt="设置" src="https://user-images.githubusercontent.com/103876733/202992917-74d994fc-8f77-4ac3-8b51-a6a5fa97a77f.png">
    <img width="362" alt="透明设置" src="https://user-images.githubusercontent.com/103876733/202992940-811364fc-9d4b-4a77-a18c-224668cb6916.png"> <img width="362" alt="右键菜单" src="https://user-images.githubusercontent.com/103876733/202992964-7ef201e8-3160-4d46-9c1e-c10ac4a3c2de.png">
