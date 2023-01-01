@@ -1,4 +1,4 @@
-# Random-Number-Generator
+# Random Number Generator
 ![image](https://img.shields.io/badge/License-MIT-orange) ![image](https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-red)  
 #### [简体中文（中国大陆）](https://github.com/12sdj/Random-Number-Generator/blob/main/README.md)| [繁體中文](https://github.com/12sdj/Random-Number-Generator/blob/main/README.cn.md) | [**English(United States)**](https://github.com/12sdj/Random-Number-Generator/blob/main/README.en.md) | [Shqiptare](https://github.com/12sdj/Random-Number-Generator/blob/main/README.al.md)
 ## Developers
@@ -18,11 +18,12 @@
   https://github.com/12sdj/Random-Number-Generator/wiki 
 ## Version
   ### Program Version  
-    3.2.0_Release (Build 2135 R1P5)    
+    3.2.1_Release (Build 2136 R1P6)    
   ### Compiler/GUI Design Tool/IDIE Version
     Python 3.10.9
     Tk 8.6.12
     Visual Studio Code 1.74.2
+    HM NIS Edit 2.0.3
   ### Plug-in Version
     Package                   Version
     ------------------------- ---------
@@ -52,6 +53,11 @@
     winshell                  0.6
 
 ## About Program  
+  ### Recommendations
+  Recommended resolution: 2520x1680  
+  Recommended scaling: 150%  
+  Recommended operating systems: Windows 10 21H2 (most stable), Windows 11 22H2 (most feedback)  
+  Note: On the tested Windows 7 SP1 system, this program does not run properly  
   ### Screenshots
    <img width="362" alt="主页面" src="https://user-images.githubusercontent.com/103876733/202992865-bf67c2ad-1675-407a-89fc-a5dab40f69dc.png"> <img width="362" alt="设置" src="https://user-images.githubusercontent.com/103876733/202992917-74d994fc-8f77-4ac3-8b51-a6a5fa97a77f.png">
    <img width="362" alt="透明设置" src="https://user-images.githubusercontent.com/103876733/202992940-811364fc-9d4b-4a77-a18c-224668cb6916.png"> <img width="362" alt="右键菜单" src="https://user-images.githubusercontent.com/103876733/202992964-7ef201e8-3160-4d46-9c1e-c10ac4a3c2de.png">
