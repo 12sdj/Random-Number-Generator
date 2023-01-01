@@ -23,6 +23,7 @@
     Python 3.10.9
     Tk 8.6.12
     Visual Studio Code 1.74.2
+    HM NIS Edit 2.0.3
   ### Plugins Versional
     Package                   Version
     ------------------------- ---------
