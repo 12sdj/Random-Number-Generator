@@ -13,8 +13,11 @@
   [水汐音](https://www.cnblogs.com/syxy/)在 [Tkinter美化之使用主题（ttkboostrap、ttkthemes）](https://www.cnblogs.com/syxy/p/14724912.html) 一文中为程序的界面提供帮助   
   [酷python](https://www.zhihu.com/people/coolpython)在 [如何使用tkinter构建数字时钟](https://zhuanlan.zhihu.com/p/358187323) 一文中为程序的多样性提供帮助   
   [李小怪](https://blog.csdn.net/Monster_li57?type=blog)在 [pyinstaller打包GUI程序时的图片处理——图片资源无法显示问题](https://blog.csdn.net/monster_li57/article/details/80601050) 一文中为程序设计提供帮助
-## 开源协议   
-  [MIT License](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)
+## 协议
+#### 开源协议   
+[MIT License](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)  
+#### 安全声明
+本软件不含有任何旨在破坏用户计算机数据和获取用户隐私信息的恶意代码，不含有任何跟踪、监视用户计算机的功能代码，不会监控用户网上、网下的行为，不会收集用户使用其它软件、文档等个人信息，不会泄漏用户隐私。
 ## 在线知识库  
   https://github.com/12sdj/Random-Number-Generator/wiki  
 ## 版本
