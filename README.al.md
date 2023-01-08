@@ -13,8 +13,11 @@
   [水汐音](https://www.cnblogs.com/syxy/)Në [Tkinter美化之使用主题（ttkboostrap、ttkthemes）](https://www.cnblogs.com/syxy/p/14724912.html) Ky artikull jep ndihmë për ndërfaqen e programit     
   [酷python](https://www.zhihu.com/people/coolpython)Në [如何使用tkinter构建数字时钟](https://zhuanlan.zhihu.com/p/358187323) Artikulli ofron ndihmë për shumëllojshmërinë e procedurave     
   [李小怪](https://blog.csdn.net/Monster_li57?type=blog)Në [pyinstaller打包GUI程序时的图片处理——图片资源无法显示问题](https://blog.csdn.net/monster_li57/article/details/80601050) Ndihma e programimit jepet në këtë artikull
-## Liçensë
-   [Licenca MIT](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)
+## Protokolli
+#### Liçensa e burimit të hapur   
+[Liçensa MIT](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)  
+#### Deklarata e Sigurisë
+Ky softuer nuk përmban ndonjë kod keqdashës të projektuar për të shkatërruar të dhënat kompjuterike të përdoruesit dhe për të marrë informacionin e privatësisë së përdoruesit, nuk përmban ndonjë kod funksional për të ndjekur dhe monitoruar kompjuterin e përdoruesit, nuk monitoron sjelljen online dhe offline të përdoruesit, nuk mbledh përdorimin e përdoruesit të softuerëve të tjerë, dokumenteve dhe informacioneve të tjera personale dhe nuk rrjedh privatësia e përdoruesit.
 ## Wiki (Online)
    https://github.com/12sdj/Random-Number-Generator/wiki
 ## Versioni
