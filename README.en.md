@@ -20,14 +20,17 @@ This software does not contain any malicious code designed to destroy the user's
 ## Wiki(Online)  
   https://github.com/12sdj/Random-Number-Generator/wiki 
 ## Version
-  ### Program Version  
-    3.2.2_Release (Build 2137 R1P7)     
-  ### Compiler/GUI Design Tool/IDIE Version
+
+### Normal Version
+###### for Windows 10 (64-bit), Windows 11 (64-bit)
+  #### Program version  
+    3.2.2_Release (Build 2137 R1P7)  
+  #### compiler/GUI design tool/IDIE version
     Python 3.10.9
     Tk 8.6.12
     Visual Studio Code 1.74.2
     HM NIS Edit 2.0.3
-  ### Plug-in Version
+  #### plugin version
     Package                   Version
     ------------------------- ---------
     altgraph                  0.17.2
@@ -53,7 +56,30 @@ This software does not contain any malicious code designed to destroy the user's
     tqdm                      4.64.1
     ttkthemes                 3.2.2
     urllib3                   1.26.12
-    winshell                  0.6
+    winshell                  0.6  
+    
+### Compatibility Version
+###### Adapts to Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit), Windows 11
+  #### Program version  
+    Not yet released  
+  #### compiler/GUI design tool/IDIE version
+    Python 3.8.10(32-bit)
+    Tk 8.6.9
+    Visual Studio Code 1.74.2
+    HM NIS Edit 2.0.3
+  #### plugin version
+    Package                   Version
+    ------------------------- ---------
+    altgraph                  0.17.3
+    future                    0.18.2
+    pefile                    2022.5.30
+    Pillow                    9.4.0
+    pip                       22.3.1
+    pyinstaller               5.7.0
+    pyinstaller-hooks-contrib 2022.14
+    pywin32-ctypes            0.2.0
+    setuptools                56.0.0
+    ttkthemes                 3.2.2
 
 ## About Program  
   ### Recommendations
