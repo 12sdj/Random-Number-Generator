@@ -20,14 +20,17 @@
 ## 在線知識庫  
   https://github.com/12sdj/Random-Number-Generator/wiki  
 ## 版本
-  ### 程序版本  
-    3.2.2_Release (Build 2137 R1P7)      
-  ### 編譯器/GUI設計工具/IDIE 版本
+
+### 普通版本
+###### 適配Windows 10（64-bit）， Windows 11（64-bit）
+  #### 程式版本  
+    3.2.2_Release (Build 2137 R1P7)  
+  #### 編譯器/GUI設計工具/IDIE 版本
     Python 3.10.9
     Tk 8.6.12
     Visual Studio Code 1.74.2
     HM NIS Edit 2.0.3
-  ### 外掛程式版本
+  #### 外掛程式版本
     Package                   Version
     ------------------------- ---------
     altgraph                  0.17.2
@@ -53,7 +56,30 @@
     tqdm                      4.64.1
     ttkthemes                 3.2.2
     urllib3                   1.26.12
-    winshell                  0.6
+    winshell                  0.6  
+    
+### 相容性版本
+###### 適配Windows 7（32-bit&64-bit）， Windows 10（32-bit&64-bit）， Windows 11
+  #### 程式版本  
+    暫未發佈  
+  #### 編譯器/GUI設計工具/IDIE 版本
+    Python 3.8.10(32-bit)
+    Tk 8.6.9
+    Visual Studio Code 1.74.2
+    HM NIS Edit 2.0.3
+  #### 外掛程式版本
+    Package                   Version
+    ------------------------- ---------
+    altgraph                  0.17.3
+    future                    0.18.2
+    pefile                    2022.5.30
+    Pillow                    9.4.0
+    pip                       22.3.1
+    pyinstaller               5.7.0
+    pyinstaller-hooks-contrib 2022.14
+    pywin32-ctypes            0.2.0
+    setuptools                56.0.0
+    ttkthemes                 3.2.2
   
 
 ## 關於程式 
