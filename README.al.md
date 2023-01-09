@@ -20,41 +20,63 @@
 Ky softuer nuk përmban ndonjë kod keqdashës të projektuar për të shkatërruar të dhënat kompjuterike të përdoruesit dhe për të marrë informacionin e privatësisë së përdoruesit, nuk përmban ndonjë kod funksional për të ndjekur dhe monitoruar kompjuterin e përdoruesit, nuk monitoron sjelljen online dhe offline të përdoruesit, nuk mbledh përdorimin e përdoruesit të softuerëve të tjerë, dokumenteve dhe informacioneve të tjera personale dhe nuk rrjedh privatësia e përdoruesit.
 ## Wiki (Online)
    https://github.com/12sdj/Random-Number-Generator/wiki
-## Versioni
-  ### Program Versioni  
-    3.2.2_Release (Build 2137 R1P7)        
-  ### Përpilues/GUI Projektim Mjeti/IDIE Versioni  
+## Versioni 
+
+### Versioni Normal
+###### për Windows 10 (64-bit), Windows 11 (64-bit)
+  #### Versioni i programit  
+    3.2.2_Release (Ndërto 2137 R1P7)  
+  #### Përpilues/Mjet Dizenjimi GUI/Versioni IDIE
     Python 3.10.9
     Tk 8.6.12
     Visual Studio Code 1.74.2
     HM NIS Edit 2.0.3
-  ### Plugins Versional
-    Package                   Version
-    ------------------------- ---------
-    altgraph                  0.17.2
-    certifi                   2022.9.14
-    charset-normalizer        2.1.1
-    colorama                  0.4.5
-    ffmpeg                    1.4
-    future                    0.18.2
-    idna                      3.4
-    pefile                    2022.5.30
-    Pillow                    9.2.0
-    pip                       22.3.1
-    pyinstaller               5.4.1
+  #### Versioni i plugin
+    altgrafi 0.17.2
+    çertifikuar 2022.9.14
+    charset-normaler 2.1.1
+    colorama 0.4.5
+    ffmpeg 1.4
+    e ardhmja 0.18.2
+    Idna 3.4
+    pefile 2022.5.30
+    Jastëku 9.2.0
+    pip 22.3.1
+    pyinstaller 5.4.1
     pyinstaller-hooks-contrib 2022.10
-    pynput                    1.7.6
-    pypiwin32                 223
-    pywin32                   304
-    pywin32-ctypes            0.2.0
-    requests                  2.28.1
-    setproctitle              1.3.2
-    setuptools                63.2.0
-    six                       1.16.0
-    tqdm                      4.64.1
-    ttkthemes                 3.2.2
-    urllib3                   1.26.12
-    winshell                  0.6
+    pynput 1.7.6
+    pypiwin32 223
+    pywin32 304
+    pywin32-ctypes 0.2.0
+    kërkesat 2.28.1
+    setproctitle 1.3.2
+    setuptools 63.2.0
+    6 1.16.0
+    tqdm 4.64.1
+    ttkthemes 3.2.2
+    urllib3 1.26.12
+    winshell 0.6  
+    
+### Versioni i pajtueshmërisë
+###### Përshtatet me Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit), Windows 11
+  #### Versioni i programit  
+    Ende nuk është lëshuar  
+  #### Përpilues/Mjet Dizenjimi GUI/Versioni IDIE
+    Python 3.8.10(32-bit)
+    Tk 8.6.9
+    Visual Studio Code 1.74.2
+    HM NIS Edit 2.0.3
+  #### Versioni i plugin
+    altgraph 0.17.3
+    e ardhmja 0.18.2
+    pefile 2022.5.30
+    Jastëku 9.4.0
+    pip 22.3.1
+    pyinstaller 5.7.0
+    pyinstaller-hooks-contrib 2022.14
+    pywin32-ctypes 0.2.0
+    setuptools 56.0.0
+    ttkthemes 3.2.2
 
  ## Rreth Programit  
   ### Rekomandimet
