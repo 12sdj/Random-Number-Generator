@@ -21,6 +21,7 @@
 ## 在线知识库  
   https://github.com/12sdj/Random-Number-Generator/wiki  
 ## 版本
+
 * 普通版本
 ###### 适配Windows 10(64-bit), Windows 11(64-bit)
   ### 程序版本  
@@ -56,7 +57,8 @@
     tqdm                      4.64.1
     ttkthemes                 3.2.2
     urllib3                   1.26.12
-    winshell                  0.6
+    winshell                  0.6  
+    
 * 兼容性版本
 ###### 适配Windows 7(32-bit&64-bit), Windows 10(32-bit&64-bit), Windows 11
   ### 程序版本  
@@ -79,6 +81,7 @@
     pywin32-ctypes            0.2.0
     setuptools                56.0.0
     ttkthemes                 3.2.2
+
 ## 关于程序  
   ### 建议
   建议分辨率：2520x1680  
