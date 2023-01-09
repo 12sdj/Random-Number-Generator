@@ -21,6 +21,8 @@
 ## 在线知识库  
   https://github.com/12sdj/Random-Number-Generator/wiki  
 ## 版本
+* 普通版本
+###### 适配Windows 10(64-bit), Windows 11(64-bit)
   ### 程序版本  
     3.2.2_Release (Build 2137 R1P7)  
   ### 编译器/GUI设计工具/IDIE 版本
@@ -55,13 +57,34 @@
     ttkthemes                 3.2.2
     urllib3                   1.26.12
     winshell                  0.6
-    
+* 兼容性版本
+###### 适配Windows 7(32-bit&64-bit), Windows 10(32-bit&64-bit), Windows 11
+  ### 程序版本  
+    暂未发布  
+  ### 编译器/GUI设计工具/IDIE 版本
+    Python 3.8.10(32-bit)
+    Tk 8.6.9
+    Visual Studio Code 1.74.2
+    HM NIS Edit 2.0.3
+  ### 插件版本
+    Package                   Version
+    ------------------------- ---------
+    altgraph                  0.17.3
+    future                    0.18.2
+    pefile                    2022.5.30
+    Pillow                    9.4.0
+    pip                       22.3.1
+    pyinstaller               5.7.0
+    pyinstaller-hooks-contrib 2022.14
+    pywin32-ctypes            0.2.0
+    setuptools                56.0.0
+    ttkthemes                 3.2.2
 ## 关于程序  
   ### 建议
   建议分辨率：2520x1680  
   建议缩放：150%  
   建议操作系统：Windows 10 21H2（最稳定），Windows 11 22H2（最具反馈价值）  
-  注意：在测试的Windows 7 SP1系统中，本程序无法正常运行  
+  注意：在测试的Windows 7 SP1系统中，普通版本的程序无法正常运行  
   ### 截图
    <img width="362" alt="主页面" src="https://user-images.githubusercontent.com/103876733/202992865-bf67c2ad-1675-407a-89fc-a5dab40f69dc.png"> <img width="362" alt="设置" src="https://user-images.githubusercontent.com/103876733/202992917-74d994fc-8f77-4ac3-8b51-a6a5fa97a77f.png">
    <img width="362" alt="透明设置" src="https://user-images.githubusercontent.com/103876733/202992940-811364fc-9d4b-4a77-a18c-224668cb6916.png"> <img width="362" alt="右键菜单" src="https://user-images.githubusercontent.com/103876733/202992964-7ef201e8-3160-4d46-9c1e-c10ac4a3c2de.png">
