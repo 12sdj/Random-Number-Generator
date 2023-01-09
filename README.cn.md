@@ -23,14 +23,14 @@
 
 ### 普通版本
 ###### 適配Windows 10（64-bit）， Windows 11（64-bit）
-  #### 程式版本  
+  #### 程序版本  
     3.2.2_Release (Build 2137 R1P7)  
   #### 編譯器/GUI設計工具/IDIE 版本
     Python 3.10.9
     Tk 8.6.12
     Visual Studio Code 1.74.2
     HM NIS Edit 2.0.3
-  #### 外掛程式版本
+  #### 外掛程序版本
     Package                   Version
     ------------------------- ---------
     altgraph                  0.17.2
@@ -60,14 +60,14 @@
     
 ### 相容性版本
 ###### 適配Windows 7（32-bit&64-bit）， Windows 10（32-bit&64-bit）， Windows 11
-  #### 程式版本  
+  #### 程序版本  
     暫未發佈  
   #### 編譯器/GUI設計工具/IDIE 版本
     Python 3.8.10(32-bit)
     Tk 8.6.9
     Visual Studio Code 1.74.2
     HM NIS Edit 2.0.3
-  #### 外掛程式版本
+  #### 外掛程序版本
     Package                   Version
     ------------------------- ---------
     altgraph                  0.17.3
@@ -82,12 +82,12 @@
     ttkthemes                 3.2.2
   
 
-## 關於程式 
+## 關於程序 
   ### 建議
    建議解析度：2520x1680  
    建議縮放：150%  
    建議操作系統：Windows 10 21H2（最穩定），Windows 11 22H2（最具反饋價值）  
-   注意：在測試的Windows 7 SP1系統中，本程式無法正常運行  
+   注意：在測試的Windows 7 SP1系統中，本程序無法正常運行  
   ### 程序截圖
    <img width="362" alt="主页面" src="https://user-images.githubusercontent.com/103876733/202992865-bf67c2ad-1675-407a-89fc-a5dab40f69dc.png"> <img width="362" alt="设置" src="https://user-images.githubusercontent.com/103876733/202992917-74d994fc-8f77-4ac3-8b51-a6a5fa97a77f.png">
    <img width="362" alt="透明设置" src="https://user-images.githubusercontent.com/103876733/202992940-811364fc-9d4b-4a77-a18c-224668cb6916.png"> <img width="362" alt="右键菜单" src="https://user-images.githubusercontent.com/103876733/202992964-7ef201e8-3160-4d46-9c1e-c10ac4a3c2de.png">
