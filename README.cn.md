@@ -22,7 +22,7 @@
 ## 版本
 
 ### 普通版本
-###### 適配Windows 10（64-bit）， Windows 11（64-bit）
+###### 適配Windows 10（64-bit）， Windows 11    
   #### 程序版本  
     3.2.2_Release (Build 2137 R1P7)  
   #### 編譯器/GUI設計工具/IDIE 版本
