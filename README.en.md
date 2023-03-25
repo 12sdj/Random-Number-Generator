@@ -5,7 +5,7 @@
   [12sdj](https://github.com/12sdj)<Principal>  
   [Kazie-Yu](https://github.com/Kazie-Yu)  
   [蔡锦源](https://github.com/caijinyuan123)  
-  [Want to develop ***Random-Number-Generator*** with me？Please email me: gdcn_12sdj@outlook.com or 12sdjcn@gmail.com]
+  [Want to develop ***Random Number Generator*** with me？Please email me: gdcn_12sdj@outlook.com or 12sdjcn@gmail.com]
 ## Thanks
   Scolia helps the program run in the article [python-线程的暂停, 恢复, 退出](https://www.cnblogs.com/scolia/p/6132950.html)  
   [DelftStack(WEBSITE)](https://www.delftstack.com/en/) on [Tkinter 画线](https://www.delftstack.com/zh/howto/python-tkinter/tkinter-draw-line/) Help the interface of the program in the article  
