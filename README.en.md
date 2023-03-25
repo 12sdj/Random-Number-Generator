@@ -22,7 +22,7 @@ This software does not contain any malicious code designed to destroy the user's
 ## Version
 
 ### Normal Version
-###### for Windows 10 (64-bit), Windows 11 (64-bit)
+###### for Windows 10 (64-bit), Windows 11  
   #### Program version  
     3.2.2_Release (Build 2137 R1P7)  
   #### compiler/GUI design tool/IDIE version
