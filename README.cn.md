@@ -24,11 +24,11 @@
 ### 普通版本
 ###### 適配Windows 10（64-bit）， Windows 11    
   #### 程序版本  
-    3.2.2_Release (Build 2137 R1P7)  
+    3.3.0_Release (Build 2139 R2P0)    
   #### 編譯器/GUI設計工具/IDIE 版本
-    Python 3.10.9
+    Python 3.10.10
     Tk 8.6.12
-    Visual Studio Code 1.74.2
+    Visual Studio Code 1.77.3
     HM NIS Edit 2.0.3
   #### 外掛程序版本
     Package                   Version
