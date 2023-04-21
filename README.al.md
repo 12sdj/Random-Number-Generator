@@ -25,11 +25,11 @@ Ky softuer nuk përmban ndonjë kod keqdashës të projektuar për të shkatërr
 ### Versioni Normal
 ###### për Windows 10 (64-bit), Windows 11  
   #### Versioni i programit  
-    3.2.2_Release (Ndërto 2137 R1P7)  
+    3.3.0_Release (Build 2139 R2P0)    
   #### Përpilues/Mjet Dizenjimi GUI/Versioni IDIE
-    Python 3.10.9
+    Python 3.10.10
     Tk 8.6.12
-    Visual Studio Code 1.74.2
+    Visual Studio Code 1.77.3
     HM NIS Edit 2.0.3
   #### Versioni i plugin
     altgrafi 0.17.2
