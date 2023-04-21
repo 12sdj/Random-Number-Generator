@@ -24,11 +24,11 @@ This software does not contain any malicious code designed to destroy the user's
 ### Normal Version
 ###### for Windows 10 (64-bit), Windows 11  
   #### Program version  
-    3.2.2_Release (Build 2137 R1P7)  
+    3.3.0_Release (Build 2139 R2P0)    
   #### compiler/GUI design tool/IDIE version
-    Python 3.10.9
+    Python 3.10.10
     Tk 8.6.12
-    Visual Studio Code 1.74.2
+    Visual Studio Code 1.77.3
     HM NIS Edit 2.0.3
   #### plugin version
     Package                   Version
