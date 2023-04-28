@@ -26,7 +26,7 @@ Ky softuer nuk përmban ndonjë kod keqdashës të projektuar për të shkatërr
 ###### për Windows 10 (64-bit), Windows 11  
   #### Versioni i programit  
     3.3.0_Release (Build 2139 R2P0)    
-  #### Përpilues/Mjet Dizenjimi GUI/Versioni IDIE
+  #### Versioni i veglave
     Python 3.10.10
     Tk 8.6.12
     Visual Studio Code 1.77.3
@@ -61,7 +61,7 @@ Ky softuer nuk përmban ndonjë kod keqdashës të projektuar për të shkatërr
 ###### Përshtatet me Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit), Windows 11
   #### Versioni i programit  
     Ende nuk është lëshuar  
-  #### Përpilues/Mjet Dizenjimi GUI/Versioni IDIE
+  #### Versioni i veglave
     Python 3.8.10(32-bit)
     Tk 8.6.9
     Visual Studio Code 1.74.2
