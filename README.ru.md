@@ -26,12 +26,12 @@
 ###### for Windows 10 (64-bit), Windows 11  
   #### Версия программы   
     3.3.0_Release (Build 2139 R2P0)    
-  #### compiler/GUI design tool/IDIE version
+  #### Версия инструмента
     Python 3.10.10
     Tk 8.6.12
     Visual Studio Code 1.77.3
     HM NIS Edit 2.0.3
-  #### plugin version
+  #### Версия плагина
     Package                   Version
     ------------------------- ---------
     altgraph                  0.17.2
@@ -59,16 +59,16 @@
     urllib3                   1.26.12
     winshell                  0.6  
     
-### Compatibility Version
-###### Adapts to Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit), Windows 11
-  #### Program version  
+### Версия совместимости с Windows 7
+###### Совместим с Windows 7 (32-разрядная и 64-разрядная версии), Windows 10 (32-разрядная и 64-разрядная версии), Windows 11
+  #### Версия программы   
     Not yet released  
-  #### compiler/GUI design tool/IDIE version
+  #### Версия инструмента
     Python 3.8.10(32-bit)
     Tk 8.6.9
     Visual Studio Code 1.74.2
     HM NIS Edit 2.0.3
-  #### plugin version
+  #### Версия плагина
     Package                   Version
     ------------------------- ---------
     altgraph                  0.17.3
@@ -82,18 +82,18 @@
     setuptools                56.0.0
     ttkthemes                 3.2.2
 
-## About Program  
-  ### Recommendations
-  Recommended resolution: 2520x1680  
-  Recommended scaling: 150%  
-  Recommended operating systems: Windows 10 21H2 (most stable), Windows 11 22H2 (most feedback)  
-  Note: On the tested Windows 7 SP1 system, this program does not run properly  
-  ### Screenshots
+## О программе  
+  ### Рекомендации
+  Рекомендуемое разрешение: 2520x1680    
+  Рекомендуемое масштабирование: 150%     
+  Рекомендуемые операционные системы: Windows 10 21H2 (самая стабильная), Windows 11 22H2 (большинство отзывов)     
+  Примечание: В протестированной системе Windows 7 SP1 эта программа работает неправильно    
+  ### Скриншоты в программе
    <img width="362" alt="主页面" src="https://user-images.githubusercontent.com/103876733/202992865-bf67c2ad-1675-407a-89fc-a5dab40f69dc.png"> <img width="362" alt="设置" src="https://user-images.githubusercontent.com/103876733/202992917-74d994fc-8f77-4ac3-8b51-a6a5fa97a77f.png">
    <img width="362" alt="透明设置" src="https://user-images.githubusercontent.com/103876733/202992940-811364fc-9d4b-4a77-a18c-224668cb6916.png"> <img width="362" alt="右键菜单" src="https://user-images.githubusercontent.com/103876733/202992964-7ef201e8-3160-4d46-9c1e-c10ac4a3c2de.png">
    <img width="362" alt="运行" src="https://user-images.githubusercontent.com/103876733/202992998-d4b93864-d0f7-477f-a919-1deeb5cf67ab.png">
 
-## Download Sources  
+## Скачать исходный код 
   * [Github](https://github.com/12sdj/Random-Number-Generator/releases)  
   * [阿里云盘](https://www.aliyundrive.com/s/DsCj6z6vBpN)  
   * [腾讯微云](https://share.weiyun.com/HlegMI18)  
