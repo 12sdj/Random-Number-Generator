@@ -25,7 +25,7 @@
 ###### 适配Windows 10(64-bit), Windows 11
   #### 程序版本  
     3.3.0_Release (Build 2139 R2P0)  
-  #### 编译器/GUI设计工具/IDIE 版本
+  #### 工具版本
     Python 3.10.10
     Tk 8.6.12
     Visual Studio Code 1.77.3
@@ -62,7 +62,7 @@
 ###### 适配Windows 7(32-bit&64-bit), Windows 10(32-bit&64-bit), Windows 11
   #### 程序版本  
     暂未发布  
-  #### 编译器/GUI设计工具/IDIE 版本
+  #### 工具版本
     Python 3.8.10(32-bit)
     Tk 8.6.9
     Visual Studio Code 1.74.2
