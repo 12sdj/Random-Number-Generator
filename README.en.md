@@ -25,12 +25,12 @@ This software does not contain any malicious code designed to destroy the user's
 ###### for Windows 10 (64-bit), Windows 11  
   #### Program version  
     3.3.0_Release (Build 2139 R2P0)    
-  #### compiler/GUI design tool/IDIE version
+  #### Tools version
     Python 3.10.10
     Tk 8.6.12
     Visual Studio Code 1.77.3
     HM NIS Edit 2.0.3
-  #### plugin version
+  #### Plugin version
     Package                   Version
     ------------------------- ---------
     altgraph                  0.17.2
@@ -62,12 +62,12 @@ This software does not contain any malicious code designed to destroy the user's
 ###### Adapts to Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit), Windows 11
   #### Program version  
     Not yet released  
-  #### compiler/GUI design tool/IDIE version
+  #### Tools version
     Python 3.8.10(32-bit)
     Tk 8.6.9
     Visual Studio Code 1.74.2
     HM NIS Edit 2.0.3
-  #### plugin version
+  #### Plugin version
     Package                   Version
     ------------------------- ---------
     altgraph                  0.17.3
@@ -81,7 +81,7 @@ This software does not contain any malicious code designed to destroy the user's
     setuptools                56.0.0
     ttkthemes                 3.2.2
 
-## About Program  
+## About  
   ### Recommendations
   Recommended resolution: 2520x1680  
   Recommended scaling: 150%  
