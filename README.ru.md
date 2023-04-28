@@ -1,29 +1,29 @@
 # Random Number Generator
 ![image](https://img.shields.io/badge/License-MIT-orange) ![image](https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-red)  
-#### [简体中文（中国大陆）](https://github.com/12sdj/Random-Number-Generator/blob/main/README.md)| [繁體中文](https://github.com/12sdj/Random-Number-Generator/blob/main/README.cn.md) | [**English(United States)**](https://github.com/12sdj/Random-Number-Generator/blob/main/README.en.md) | [Shqiptare](https://github.com/12sdj/Random-Number-Generator/blob/main/README.al.md)
-## Developers
-  [12sdj](https://github.com/12sdj)<Principal>  
+#### [简体中文（中国大陆）](https://github.com/12sdj/Random-Number-Generator/blob/main/README.md)| [繁體中文](https://github.com/12sdj/Random-Number-Generator/blob/main/README.cn.md) | [**English(United States)**](https://github.com/12sdj/Random-Number-Generator/blob/main/README.en.md) | [Shqiptare](https://github.com/12sdj/Random-Number-Generator/blob/main/README.al.md)| [**Русский(Beta)**](https://github.com/12sdj/Random-Number-Generator/blob/main/README.ru.md)
+## Разработчики
+  [12sdj](https://github.com/12sdj)<Ключевой разработчик>  
   [Kazie-Yu](https://github.com/Kazie-Yu)  
   [蔡锦源](https://github.com/caijinyuan123)  
-  [Want to develop ***Random Number Generator*** with me？Please email me: gdcn_12sdj@outlook.com or 12sdjcn@gmail.com]
-## Thanks
+  [Хотите работать со мной над этой программой? Пожалуйста, свяжитесь со мной по электронной почте: gdcn_12sdj@outlook.com или 12sdjcn@gmail.com]
+## благодарить
   Scolia helps the program run in the article [python-线程的暂停, 恢复, 退出](https://www.cnblogs.com/scolia/p/6132950.html)  
   [DelftStack(WEBSITE)](https://www.delftstack.com/en/) on [Tkinter 画线](https://www.delftstack.com/zh/howto/python-tkinter/tkinter-draw-line/) Help the interface of the program in the article  
   [水汐音](https://www.cnblogs.com/syxy/) on [Tkinter美化之使用主题（ttkboostrap、ttkthemes）](https://www.cnblogs.com/syxy/p/14724912.html) Help the interface of the program in the article  
   [酷Python](https://www.zhihu.com/people/coolpython) on [如何使用tkinter构建数字时钟](https://zhuanlan.zhihu.com/page/358187323) Help for the diversity of procedures in the article  
   [李小怪](https://blog.csdn.net/Monster_li57?type=blog) on [pyinstaller打包GUI程序时的图片处理——图片资源无法显示问题](https://blog.csdn.net/monster_li57/article/details/80601050) Help with programming in the article    
-## Protocol  
-#### Open source license   
+## Соглашение  
+#### Лицензия с открытым исходным кодом   
 [MIT License](https://github.com/12sdj/Random-Number-Generator/blob/main/LICENSE)  
-#### Security Statement
-This software does not contain any malicious code designed to destroy the user's computer data and obtain the user's privacy information, does not contain any functional code to track and monitor the user's computer, does not monitor the user's online and offline behavior, does not collect the user's use of other software, documents and other personal information, and does not leak user privacy.  
-## Wiki(Online)  
+#### Заявление о безопасности
+Это программное обеспечение не содержит вредоносного кода, предназначенного для уничтожения компьютерных данных пользователя и получения информации о конфиденциальности пользователя, не содержит никакого функционального кода для отслеживания и мониторинга компьютера пользователя, не отслеживает поведение пользователя в сети и в автономном режиме, не собирает информацию об использовании пользователем другого программного обеспечения, документов и другой личной информации,  и не допускает утечки конфиденциальности пользователей.  
+## Wiki  
   https://github.com/12sdj/Random-Number-Generator/wiki 
-## Version
+## Версия
 
-### Normal Version
+### Обычная версия
 ###### for Windows 10 (64-bit), Windows 11  
-  #### Program version  
+  #### Версия программы   
     3.3.0_Release (Build 2139 R2P0)    
   #### compiler/GUI design tool/IDIE version
     Python 3.10.10
