@@ -1,7 +1,7 @@
 # Генератор случайных чисел
-###### Random Number Generator
+Random Number Generator  
 ![image](https://img.shields.io/badge/License-MIT-orange) ![image](https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-red)  
-#### [简体中文（中国大陆）](https://github.com/12sdj/Random-Number-Generator/blob/main/README.md)| [繁體中文](https://github.com/12sdj/Random-Number-Generator/blob/main/README.cn.md) | [**English(United States)**](https://github.com/12sdj/Random-Number-Generator/blob/main/README.en.md) | [Shqiptare](https://github.com/12sdj/Random-Number-Generator/blob/main/README.al.md) |  [**Русский(Россия)**](https://github.com/12sdj/Random-Number-Generator/blob/main/README.ru.md)      
+[简体中文（中国大陆）](https://github.com/12sdj/Random-Number-Generator/blob/main/README.md)| [繁體中文](https://github.com/12sdj/Random-Number-Generator/blob/main/README.cn.md) | [English(United States)](https://github.com/12sdj/Random-Number-Generator/blob/main/README.en.md) | [Shqiptare](https://github.com/12sdj/Random-Number-Generator/blob/main/README.al.md) |  [**Русский(Россия)**](https://github.com/12sdj/Random-Number-Generator/blob/main/README.ru.md)      
 
 Примечание: Язык документа не полностью адаптирован к целевому языку, и неадаптированный язык заменяется английским языком (США).（注意：该文档语言未完全适配目标语言，未适配语言由英语（美国）代替。）
 
