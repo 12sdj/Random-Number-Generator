@@ -22,7 +22,7 @@
 ## 版本
 
 ### 普通版本
-###### 适配Windows 10(64-bit), Windows 11
+兼容Windows 10(64-bit), Windows 11  
   #### 程序版本  
     3.3.0_Release (Build 2139 R2P0)  
   #### 工具版本
@@ -59,7 +59,7 @@
     winshell                  0.6  
     
 ### 兼容性版本
-###### 适配Windows 7(32-bit&64-bit), Windows 10(32-bit&64-bit), Windows 11
+兼容Windows 7(32-bit&64-bit), Windows 10(32-bit&64-bit), Windows 11  
   #### 程序版本  
     暂未发布  
   #### 工具版本
