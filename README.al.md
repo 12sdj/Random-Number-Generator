@@ -58,7 +58,7 @@ Për Windows 10 (64-bit), Windows 11
     winshell 0.6  
     
 ### Versioni i pajtueshmërisë
-Përshtatet me Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit), Windows 11  
+Përshtatet me Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit)  
   #### Versioni i programit  
     Ende nuk është lëshuar  
   #### Versioni i veglave
