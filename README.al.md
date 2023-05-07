@@ -23,7 +23,7 @@ Ky softuer nuk përmban ndonjë kod keqdashës të projektuar për të shkatërr
 ## Versioni 
 
 ### Versioni Normal
-###### për Windows 10 (64-bit), Windows 11  
+Për Windows 10 (64-bit), Windows 11  
   #### Versioni i programit  
     3.3.0_Release (Build 2139 R2P0)    
   #### Versioni i veglave
@@ -58,7 +58,7 @@ Ky softuer nuk përmban ndonjë kod keqdashës të projektuar për të shkatërr
     winshell 0.6  
     
 ### Versioni i pajtueshmërisë
-###### Përshtatet me Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit), Windows 11
+Përshtatet me Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit), Windows 11  
   #### Versioni i programit  
     Ende nuk është lëshuar  
   #### Versioni i veglave
