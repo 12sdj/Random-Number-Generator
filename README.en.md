@@ -22,7 +22,7 @@ This software does not contain any malicious code designed to destroy the user's
 ## Version
 
 ### Normal Version
-###### for Windows 10 (64-bit), Windows 11  
+Compatible with Windows 10 (64-bit), Windows 11   
   #### Program version  
     3.3.0_Release (Build 2139 R2P0)    
   #### Tools version
@@ -59,7 +59,7 @@ This software does not contain any malicious code designed to destroy the user's
     winshell                  0.6  
     
 ### Compatibility Version
-###### Adapts to Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit), Windows 11
+Compatible with Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit)  
   #### Program version  
     Not yet released  
   #### Tools version
