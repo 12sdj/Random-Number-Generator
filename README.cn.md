@@ -59,7 +59,7 @@
     winshell                  0.6  
     
 ### 相容性版本
-適配Windows 7（32-bit&64-bit）， Windows 10（32-bit&64-bit）， Windows 11  
+適配Windows 7（32-bit&64-bit）， Windows 10（32-bit&64-bit)  
   #### 程序版本  
     暫未發佈  
   #### 工具版本
