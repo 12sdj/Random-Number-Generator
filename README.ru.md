@@ -11,7 +11,7 @@ Random Number Generator
   [蔡锦源](https://github.com/caijinyuan123)  
   [Хотите работать со мной над этой программой? Пожалуйста, свяжитесь со мной по электронной почте: gdcn_12sdj@outlook.com или 12sdjcn@gmail.com]
 ## благодарить
-  Scolia helps the program run in the article [python-线程的暂停, 恢复, 退出](https://www.cnblogs.com/scolia/p/6132950.html)  
+  Scolia помогает программе работать в статье [python-线程的暂停, 恢复, 退出](https://www.cnblogs.com/scolia/p/6132950.html)  
   [DelftStack(WEBSITE)](https://www.delftstack.com/en/) on [Tkinter 画线](https://www.delftstack.com/zh/howto/python-tkinter/tkinter-draw-line/) Help the interface of the program in the article  
   [水汐音](https://www.cnblogs.com/syxy/) on [Tkinter美化之使用主题（ttkboostrap、ttkthemes）](https://www.cnblogs.com/syxy/p/14724912.html) Help the interface of the program in the article  
   [酷Python](https://www.zhihu.com/people/coolpython) on [如何使用tkinter构建数字时钟](https://zhuanlan.zhihu.com/page/358187323) Help for the diversity of procedures in the article  
