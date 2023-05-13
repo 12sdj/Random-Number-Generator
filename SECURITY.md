@@ -7,11 +7,11 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 4.0.x   | :white_check_mark: |
-| 3.3.x   | :x:                |
-| 3.2.x   | :x:                |
-| 3.1.x   | :x:                |
-| <= 3.0.x| :x:                |
+| 4.0.x   | feature updates    |
+| 3.3.x   | bug fixes          |
+| 3.2.x   | security           |
+| 3.1.x   | security           |
+| <=3.0.x | :x:                |
 
 ## Reporting a Vulnerability
 
