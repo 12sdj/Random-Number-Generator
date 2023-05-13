@@ -4,7 +4,7 @@ name: Security vulnerabilities
 
 about: Create a report to report security vulnerabilities so that we can fix them for safe use of the program.
 
-title: ''
+title: 'Security vulnerabilities'
 
 labels: ''
 
