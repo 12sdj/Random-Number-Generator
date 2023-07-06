@@ -25,11 +25,11 @@ Ky softuer nuk përmban ndonjë kod keqdashës të projektuar për të shkatërr
 ### Versioni Normal
 Për Windows 10 (64-bit), Windows 11  
   #### Versioni i programit  
-    3.3.0_Release (Build 2139 R2P0)    
+    4.0.0.146_Release      
   #### Versioni i veglave
-    Python 3.10.10
+    Python 3.10.11
     Tk 8.6.12
-    Visual Studio Code 1.77.3
+    Visual Studio Code 1.79.2
     HM NIS Edit 2.0.3
   #### Versioni i plugin
     altgrafi 0.17.2
@@ -92,7 +92,7 @@ Përshtatet me Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit)
    
 ## Shkarko Burimin  
   * [Github](https://github.com/12sdj/Random-Number-Generator/releases)  
-  * [阿里云盘](https://www.aliyundrive.com/s/DsCj6z6vBpN)  
+  * [阿里云盘](https://www.aliyundrive.com/s/Ghi9ieaFQWZ)  
   * [腾讯微云](https://share.weiyun.com/HlegMI18)  
   * [OneDrive](https://8qd83q-my.sharepoint.com/:f:/g/personal/12sdj_8qd83q_onmicrosoft_com/EjmTM5xEZeBFjnXuM5j-3cQBYkFQF3KaMiRlwncNtgxYrQ?e=Ad2X5z)  
   * [Google Drive](https://drive.google.com/drive/folders/1ezO4K8YRL7qEnfcur5NnHO9Gpjvhzdfh?usp=sharing)
