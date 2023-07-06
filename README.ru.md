@@ -28,12 +28,12 @@ Random Number Generator
 ### Обычная версия
 Совместим с Windows 10 (64-разрядная версия), Windows 11  
   #### Версия программы   
-    3.3.0_Release (Build 2139 R2P0)    
+    4.0.0.146_Release     
   #### Версия инструмента
-    Python 3.10.10
-    Tk 8.6.12
-    Visual Studio Code 1.77.3
-    HM NIS Edit 2.0.3
+    Python 3.10.11
+    Tk 8.6.12 
+    Visual Studio Code 1.79.2 
+    HM NIS Edit 2.0.3 
   #### Версия плагина
     Package                   Version
     ------------------------- ---------
@@ -98,7 +98,7 @@ Random Number Generator
 
 ## Скачать исходный код 
   * [Github](https://github.com/12sdj/Random-Number-Generator/releases)  
-  * [阿里云盘](https://www.aliyundrive.com/s/DsCj6z6vBpN)  
+  * [阿里云盘](https://www.aliyundrive.com/s/Ghi9ieaFQWZ)  
   * [腾讯微云](https://share.weiyun.com/HlegMI18)  
   * [OneDrive](https://8qd83q-my.sharepoint.com/:f:/g/personal/12sdj_8qd83q_onmicrosoft_com/EjmTM5xEZeBFjnXuM5j-3cQBYkFQF3KaMiRlwncNtgxYrQ?e=Ad2X5z)  
   * [Google Drive](https://drive.google.com/drive/folders/1ezO4K8YRL7qEnfcur5NnHO9Gpjvhzdfh?usp=sharing)
