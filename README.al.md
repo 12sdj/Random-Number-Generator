@@ -25,37 +25,59 @@ Ky softuer nuk përmban ndonjë kod keqdashës të projektuar për të shkatërr
 ### Versioni Normal
 Për Windows 10 (64-bit), Windows 11  
   #### Versioni i programit  
-    4.0.0.146_Release      
+    4.1.0.34_Release      
   #### Versioni i veglave
     Python 3.10.11
     Tk 8.6.12
-    Visual Studio Code 1.79.2
+    Visual Studio Code 1.81.1
     HM NIS Edit 2.0.3
   #### Versioni i plugin
-    altgrafi 0.17.2
-    çertifikuar 2022.9.14
-    charset-normaler 2.1.1
-    colorama 0.4.5
-    ffmpeg 1.4
-    e ardhmja 0.18.2
-    Idna 3.4
-    pefile 2022.5.30
-    Jastëku 9.2.0
-    pip 22.3.1
-    pyinstaller 5.4.1
-    pyinstaller-hooks-contrib 2022.10
-    pynput 1.7.6
-    pypiwin32 223
-    pywin32 304
-    pywin32-ctypes 0.2.0
-    kërkesat 2.28.1
-    setproctitle 1.3.2
-    setuptools 63.2.0
-    6 1.16.0
-    tqdm 4.64.1
-    ttkthemes 3.2.2
-    urllib3 1.26.12
-    winshell 0.6  
+    Package                   Version
+    ------------------------- ---------
+    ad3                       2.2.1
+    altgraph                  0.17.3
+    certifi                   2023.7.22
+    charset-normalizer        3.2.0
+    colorama                  0.4.6
+    EasyProcess               1.1
+    entrypoint2               1.1
+    ffmpeg                    1.4
+    future                    0.18.3
+    idna                      3.4
+    MouseInfo                 0.1.3
+    mss                       9.0.1
+    packaging                 23.1
+    pefile                    2023.2.7
+    Pillow                    10.0.0
+    pip                       23.2.1
+    pip-review                1.3.0
+    plyer                     2.1.0
+    psutil                    5.9.5
+    PyAutoGUI                 0.9.54
+    pygame                    2.5.1
+    PyGetWindow               0.0.9
+    pyinstaller               5.13.1
+    pyinstaller-hooks-contrib 2023.7
+    PyMsgBox                  1.0.9
+    pynput                    1.7.6
+    pyperclip                 1.8.2
+    pypiwin32                 223
+    PyRect                    0.2.0
+    pyscreenshot              3.1
+    PyScreeze                 0.1.29
+    pytweening                1.0.7
+    PyUserInput               0.1.10
+    pywin32                   306
+    pywin32-ctypes            0.2.2
+    requests                  2.31.0
+    setproctitle              1.3.2
+    setuptools                68.1.2
+    six                       1.16.0
+    tqdm                      4.66.1
+    ttkthemes                 3.2.2
+    urllib3                   2.0.4
+    winshell                  0.6
+    zhdate                    0.1
     
 ### Versioni i pajtueshmërisë
 Përshtatet me Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit)  
