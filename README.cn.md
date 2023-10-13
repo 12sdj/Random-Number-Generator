@@ -79,7 +79,7 @@
     zhdate                    0.1
     
 ### 相容性版本
-適配Windows 7（32-bit&64-bit）， Windows 10（32-bit&64-bit)  
+適配Windows 7(32-bit&64-bit), Windows 8/8.1(32-bit&64-bit), Windows 10(32-bit) 
   #### 程序版本  
     暫未發佈  
   #### 工具版本
