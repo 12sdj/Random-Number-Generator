@@ -25,7 +25,7 @@ Ky softuer nuk përmban ndonjë kod keqdashës të projektuar për të shkatërr
 ### Versioni Normal
 Për Windows 10 (64-bit), Windows 11  
   #### Versioni i programit  
-    4.2.0.60_Release      
+    4.2.1.64_Release      
   #### Versioni i veglave
     Python 3.10.11
     Tk 8.6.12
@@ -80,25 +80,16 @@ Për Windows 10 (64-bit), Windows 11
     zhdate                    0.1
     
 ### Versioni i pajtueshmërisë
-Përshtatet me Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit)  
+Përshtatet me Windows 7(32-bit&64-bit), Windows 8/8.1(32-bit&64-bit), Windows 10(32-bit) 
   #### Versioni i programit  
-    Ende nuk është lëshuar  
+    4.2.1.64_Release  
   #### Versioni i veglave
     Python 3.8.10(32-bit)
     Tk 8.6.9
     Visual Studio Code 1.74.2
     HM NIS Edit 2.0.3
   #### Versioni i plugin
-    altgraph 0.17.3
-    e ardhmja 0.18.2
-    pefile 2022.5.30
-    Jastëku 9.4.0
-    pip 22.3.1
-    pyinstaller 5.7.0
-    pyinstaller-hooks-contrib 2022.14
-    pywin32-ctypes 0.2.0
-    setuptools 56.0.0
-    ttkthemes 3.2.2
+    /
 
  ## Rreth Programit  
   ### Rekomandimet
