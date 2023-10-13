@@ -88,18 +88,7 @@
     Visual Studio Code 1.74.2
     HM NIS Edit 2.0.3
   #### 外掛程序版本
-    Package                   Version
-    ------------------------- ---------
-    altgraph                  0.17.3
-    future                    0.18.2
-    pefile                    2022.5.30
-    Pillow                    9.4.0
-    pip                       22.3.1
-    pyinstaller               5.7.0
-    pyinstaller-hooks-contrib 2022.14
-    pywin32-ctypes            0.2.0
-    setuptools                56.0.0
-    ttkthemes                 3.2.2
+    /
   
 
 ## 關於程序 
