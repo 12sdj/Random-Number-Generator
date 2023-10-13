@@ -24,7 +24,7 @@ This software does not contain any malicious code designed to destroy the user's
 ### Normal Version
 Compatible with Windows 10 (64-bit), Windows 11   
   #### Program version  
-    4.2.0.60_Release     
+    4.2.1.64_Release     
   #### Tools version
     Python 3.10.11
     Tk 8.6.12
@@ -79,27 +79,16 @@ Compatible with Windows 10 (64-bit), Windows 11
     zhdate                    0.1
     
 ### Compatibility Version
-Compatible with Windows 7 (32-bit&64-bit), Windows 10 (32-bit&64-bit)  
+Compatible with Windows 7(32-bit&64-bit), Windows 8/8.1(32-bit&64-bit), Windows 10(32-bit)
   #### Program version  
-    Not yet released  
+    4.2.1.64_Release  
   #### Tools version
     Python 3.8.10(32-bit)
     Tk 8.6.9
     Visual Studio Code 1.74.2
     HM NIS Edit 2.0.3
   #### Plugin version
-    Package                   Version
-    ------------------------- ---------
-    altgraph                  0.17.3
-    future                    0.18.2
-    pefile                    2022.5.30
-    Pillow                    9.4.0
-    pip                       22.3.1
-    pyinstaller               5.7.0
-    pyinstaller-hooks-contrib 2022.14
-    pywin32-ctypes            0.2.0
-    setuptools                56.0.0
-    ttkthemes                 3.2.2
+    /
 
 ## About  
   ### Recommendations
