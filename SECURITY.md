@@ -7,7 +7,8 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 4.0.x   | feature updates    |
+| 5.x.x   | feature updates    |
+| 4.x.x   | feature updates    |
 | 3.3.x   | bug fixes          |
 | 3.2.x   | security           |
 | 3.1.x   | security           |
