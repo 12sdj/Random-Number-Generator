@@ -20,7 +20,7 @@
 ## 在线知识库  
   https://github.com/12sdj/Random-Number-Generator/wiki  
 ## 版本
-43ru34fh923rh2ufu23
+43ru34fh89qhf9
 ### 普通版本
 兼容Windows 10(64-bit), Windows 11  
   #### 程序版本  
