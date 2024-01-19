@@ -25,7 +25,7 @@ Ky softuer nuk përmban ndonjë kod keqdashës të projektuar për të shkatërr
 ### Versioni Normal
 Për Windows 10 (64-bit), Windows 11  
   #### Versioni i programit  
-    4.2.4.8_Release      
+    4.2.5.0_Release      
   #### Versioni i veglave
     Python 3.10.11
     Tk 8.6.12
