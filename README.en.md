@@ -24,11 +24,11 @@ This software does not contain any malicious code designed to destroy the user's
 ### Normal Version
 Compatible with Windows 10 (64-bit), Windows 11   
   #### Program version  
-    4.2.5.0_Release     
+    4.3.0.12_Release     
   #### Tools version
     Python 3.10.11
     Tk 8.6.12
-    Visual Studio Code 1.81.1
+    Visual Studio Code 1.85.2
     HM NIS Edit 2.0.3
   #### Plugin version
     Package                   Version
