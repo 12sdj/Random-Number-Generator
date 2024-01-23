@@ -24,11 +24,11 @@
 ### 普通版本
 兼容Windows 10(64-bit), Windows 11  
   #### 程序版本  
-    4.2.5.0_Release  
+    4.3.0.12_Release  
   #### 工具版本
     Python 3.10.11
     Tk 8.6.12
-    Visual Studio Code 1.81.1
+    Visual Studio Code 1.85.2
     HM NIS Edit 2.0.3
   #### 插件版本
     Package                   Version
