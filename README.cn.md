@@ -28,7 +28,7 @@
   #### 工具版本
     Python 3.10.11
     Tk 8.6.12
-    Visual Studio Code 1.81.1
+    Visual Studio Code 1.85.2
     HM NIS Edit 2.0.3
   #### 外掛程序版本
     Package                   Version
