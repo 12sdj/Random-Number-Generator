@@ -30,7 +30,7 @@ Random Number Generator
   #### Версия инструмента
     Python 3.10.11
     Tk 8.6.12 
-    Visual Studio Code 1.81.1 
+    Visual Studio Code 1.85.2 
     HM NIS Edit 2.0.3 
   #### Версия плагина
     Package                   Version
