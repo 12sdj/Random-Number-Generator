@@ -29,7 +29,7 @@ Për Windows 10 (64-bit), Windows 11
   #### Versioni i veglave
     Python 3.10.11
     Tk 8.6.12
-    Visual Studio Code 1.86.0
+    Visual Studio Code 1.86.1
     HM NIS Edit 2.0.3
   #### Versioni i plugin
     Package                   Version
