@@ -25,11 +25,11 @@ Ky softuer nuk përmban ndonjë kod keqdashës të projektuar për të shkatërr
 ### Versioni Normal
 Për Windows 10 (64-bit), Windows 11  
   #### Versioni i programit  
-    4.3.0.12_Release      
+    4.3.1.28_Release      
   #### Versioni i veglave
     Python 3.10.11
     Tk 8.6.12
-    Visual Studio Code 1.85.2
+    Visual Studio Code 1.86.0
     HM NIS Edit 2.0.3
   #### Versioni i plugin
     Package                   Version
