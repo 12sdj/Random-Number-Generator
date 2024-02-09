@@ -28,7 +28,7 @@ Compatible with Windows 10 (64-bit), Windows 11
   #### Tools version
     Python 3.10.11
     Tk 8.6.12
-    Visual Studio Code 1.85.2
+    Visual Studio Code 1.86.0
     HM NIS Edit 2.0.3
   #### Plugin version
     Package                   Version
