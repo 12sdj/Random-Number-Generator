@@ -24,7 +24,7 @@ This software does not contain any malicious code designed to destroy the user's
 ### Normal Version
 Compatible with Windows 10 (64-bit), Windows 11   
   #### Program version  
-    4.3.2.2_Release     
+    4.4.0.134_Release     
   #### Tools version
     Python 3.10.11
     Tk 8.6.12
@@ -81,7 +81,7 @@ Compatible with Windows 10 (64-bit), Windows 11
 ### Compatibility Version
 Compatible with Windows 7(32-bit&64-bit), Windows 8/8.1(32-bit&64-bit), Windows 10(32-bit)
   #### Program version  
-    4.2.1.64_Release  
+    4.4.0.134_Release  
   #### Tools version
     Python 3.8.10(32-bit)
     Tk 8.6.9
