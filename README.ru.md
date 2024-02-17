@@ -26,7 +26,7 @@ Random Number Generator
 ### Обычная версия
 Совместим с Windows 10 (64-разрядная версия), Windows 11  
   #### Версия программы   
-    4.3.2.2_Release     
+    4.4.0.134_Release     
   #### Версия инструмента
     Python 3.10.11
     Tk 8.6.12 
@@ -83,7 +83,7 @@ Random Number Generator
 ### Версия совместимости с Windows 7
 Совместим с Windows 7(32-bit&64-bit), Windows 8/8.1(32-bit&64-bit), Windows 10(32-bit)   
   #### Версия программы   
-    4.2.1.64_Release  
+    4.4.0.134_Release  
   #### Версия инструмента
     Python 3.8.10(32-bit)
     Tk 8.6.9
