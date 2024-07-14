@@ -24,7 +24,7 @@
 ### 普通版本
 適配Windows 10（64-bit）， Windows 11    
   #### 程序版本  
-    4.4.2.8_Release      
+    4.4.3.22_Release      
   #### 工具版本
     Python 3.10.11
     Tk 8.6.12
