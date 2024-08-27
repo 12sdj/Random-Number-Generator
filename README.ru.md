@@ -26,11 +26,11 @@ Random Number Generator
 ### Обычная версия
 Совместим с Windows 10 (64-разрядная версия), Windows 11  
   #### Версия программы   
-    4.4.4.4_Release     
+    4.5.0.11_Release    
   #### Версия инструмента
     Python 3.10.11
     Tk 8.6.12 
-    Visual Studio Code 1.86.1 
+    Visual Studio Code 1.92.2 
     HM NIS Edit 2.0.3 
   #### Версия плагина
     Package                   Version
